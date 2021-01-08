@@ -5,5 +5,5 @@ Organize notes by category
 
 
 API to be used:
-Words- Definitions and synonyms for more than 150,000 words
+Google Calendar	Display, create and modify Google calendar events
 Merriam-Webster- Dictionary and Thesaurus Data
